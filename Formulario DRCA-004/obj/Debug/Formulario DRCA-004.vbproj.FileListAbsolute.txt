@@ -1,0 +1,11 @@
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\bin\Debug\Formulario DRCA-004.exe.config
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\bin\Debug\Formulario DRCA-004.exe
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\bin\Debug\Formulario DRCA-004.pdb
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\bin\Debug\Formulario DRCA-004.xml
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.vbprojResolveAssemblyReference.cache
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario_DRCA_004.Form1.resources
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario_DRCA_004.Resources.resources
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.vbproj.GenerateResource.Cache
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.exe
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.xml
+D:\carlo\Documents\Colegio\Programación\5to compu\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.pdb
